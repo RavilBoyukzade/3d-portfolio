@@ -19,6 +19,7 @@ const Navbar = () => {
           }
         }>
         <img src={logo} alt="logo" className='w-9 h-9 object-contain'/>
+        <p className="text-white text-[18px] font-bold cursor-pointer">Ravil<span className="sm:block hidden"> | Frontend developer</span></p>
         </Link>
       </div>
     </nav>
