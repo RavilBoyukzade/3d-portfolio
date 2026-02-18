@@ -29,14 +29,22 @@ import {
     {
       id: "about",
       title: "About",
+      path: "/#about",
     },
     {
       id: "work",
       title: "Work",
+      path: "/#work",
     },
     {
       id: "contact",
       title: "Contact",
+      path: "/#contact",
+    },
+    {
+      id: "blog",
+      title: "Blog",
+      path: "/blog",
     },
   ];
   
